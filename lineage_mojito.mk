@@ -28,5 +28,5 @@ TARGET_CORE_GMS := true
 
 # Rising Stuff
 RISING_CHIPSET := "Snapdragon 678"
-RISING_MAINTAINER := "daralys"
+RISING_MAINTAINER := daralys
 RISING_PACKAGE_TYPE := AOSP
