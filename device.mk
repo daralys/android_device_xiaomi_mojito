@@ -298,9 +298,9 @@ PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.0.vendor \
     android.hardware.keymaster@4.1.vendor
 
-# KProfiles
+# LiveDisplay
 PRODUCT_PACKAGES += \
-    KProfiles
+    vendor.lineage.livedisplay@2.0-service.mojito
 
 # Media
 PRODUCT_PACKAGES += \
