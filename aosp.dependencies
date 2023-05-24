@@ -1,0 +1,14 @@
+[
+  {
+   "repository"  : "android_kernel_xiaomi_mojito",
+   "target_path" : "kernel/xiaomi/mojito",
+   "remote": "pixel-devices",
+   "branch": "thirteen"
+ },
+ {
+   "repository"  : "android_vendor_xiaomi_mojito",
+   "target_path" : "vendor/xiaomi/mojito",
+   "remote": "pixel-devices-blobs",
+   "branch": "thirteen"
+ }
+]
