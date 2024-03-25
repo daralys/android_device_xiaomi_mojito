@@ -560,7 +560,3 @@ PRODUCT_PACKAGES += \
 # Wlan
 PRODUCT_CFI_INCLUDE_PATHS += \
     hardware/qcom-caf/wlan/qcwcn/wpa_supplicant_8_lib
-
-# Remove unwanted pacakges
-PRODUCT_PACKAGES += \
-    RemovePackages
