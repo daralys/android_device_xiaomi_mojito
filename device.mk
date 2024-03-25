@@ -1,4 +1,4 @@
-#
+
 # Copyright (C) 2021 The LineageOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
@@ -297,6 +297,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.hardware.keymaster@4.0.vendor \
     android.hardware.keymaster@4.1.vendor
+
+# KProfiles
+PRODUCT_PACKAGES += \
+    KProfiles
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
