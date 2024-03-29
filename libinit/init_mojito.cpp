@@ -85,4 +85,8 @@ void vendor_load_properties() {
         load_vendor_props();
     }
     load_dalvikvm_props();
+
+    // Set RisingOS Stuff
+    property_override("ro.rising.maintainer", "daralys");
+    property_override("ro.rising.chipset", "Snapdragon 678");
 }

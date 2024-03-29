@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_mojito.mk
+    $(LOCAL_DIR)/lineage_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_mojito-user \
-    arrow_mojito-userdebug \
-    arrow_mojito-eng
+    lineage_mojito-user \
+    lineage_mojito-userdebug \
+    lineage_mojito-eng
